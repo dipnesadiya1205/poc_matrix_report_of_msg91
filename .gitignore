@@ -1,0 +1,6 @@
+build/
+node_modules/
+src/report/
+
+# ENV File
+.env
